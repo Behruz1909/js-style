@@ -1,0 +1,14 @@
+.result-error{
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    background-color: crimson;
+    color: white;
+}
+.result-remove{
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    background-color: green;
+    color: white;
+}
